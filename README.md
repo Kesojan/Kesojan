@@ -5,8 +5,6 @@
 
 ⭐️  Love dabbling with new technologies
 
-🌱  Currently learning Ruby and Go
-
 ⚽️  Biggest Ronaldo fan
 
 #### 
