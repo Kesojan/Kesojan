@@ -7,8 +7,6 @@
 
 🌱  Currently learning Ruby and Go
 
-🎩  Noob magician
-
 ⚽️  Biggest Ronaldo fan
 
 #### 
