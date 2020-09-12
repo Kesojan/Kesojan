@@ -1,10 +1,22 @@
-### Hi there 👋
+### What's up I'm Kesojan👋
+✨  Love to solve complex problems with elegant code
+
+💼  Previous SWE intern at Trajekt Sports AI and Precision Inc
+
+⭐️  Love dabbling with new technologies
+
+🌱  Currently learning Ruby and Go
+
+🎩  Noob magician
+
+⚽️  Biggest Ronaldo fan
+
+#### 
 
 <!--
 **Kesojan/Kesojan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+## I'm Kesojan. I love to solve complex problems with elegant code 🎩✨⭐️
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
