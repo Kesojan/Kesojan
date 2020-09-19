@@ -5,7 +5,8 @@
 
 ⭐️  Love dabbling with new technologies
 
-⚽️  Biggest Ronaldo fan
+🌱  Always on the lookout for ways to accelerate social good
+
 
 #### 
 
