@@ -1,8 +1,6 @@
 ### What's up I'm Kesojan👋
 ✨  Love to solve complex problems with elegant code
 
-💼  Previous SWE intern at Trajekt Sports AI and Precision Inc
-
 ⭐️  Love dabbling with new technologies
 
 🌱  Always on the lookout for ways to accelerate social good
