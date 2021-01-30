@@ -1,4 +1,4 @@
-### What's up I'm Kesojan👋
+### Hi! I'm Kesojan👋
 ✨  Love to solve complex problems with elegant code
 
 ⭐️  Love dabbling with new technologies
