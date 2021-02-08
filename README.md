@@ -1,9 +1,6 @@
-### Hey, I'm Keso :)
-✨  Love to solve complex problems with elegant code
+### Hey, I'm Keso
+✨  Always learning
 
-⭐️  Love dabbling with new technologies
-
-🌱  Always on the lookout for ways to accelerate social good
 
 
 #### 
