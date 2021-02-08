@@ -1,5 +1,5 @@
 ### Hey, I'm Keso
-✨  Always learning
+⚡  Always learning
 
 
 
