@@ -12,9 +12,7 @@ Welcome to my playground! I'm a Backend Developer Intern at the Royal Bank of Ca
 
 </p>
 
-<img style="border-radius:10px" src="https://github-readme-stats.vercel.app/api?username=Kesojan&show_icons=true&theme=algolia" />
-
-<img style="border-radius:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=Kesojan&show_icons=true&theme=algolia" />
+<img style="border-radius:10px" img align ="center" src="https://github-readme-stats.vercel.app/api?username=Kesojan&show_icons=true&theme=algolia" />
 
 
 
