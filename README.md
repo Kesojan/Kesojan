@@ -10,11 +10,11 @@ Welcome to my playground! I'm a Backend Developer Intern at the Royal Bank of Ca
   <a href="https://www.linkedin.com/in/Kesojan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:k2premak@uwaterloo.ca"><img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
+
+<br>
+<br>
+<img style="border-radius:10px" src="https://github-readme-stats.vercel.app/api?username=Kesojan&show_icons=true&theme=algolia" />
 </p>
-
-<img style="border-radius:10px" img align ="center" src="https://github-readme-stats.vercel.app/api?username=Kesojan&show_icons=true&theme=algolia" />
-
-
 
 <!--
 **Kesojan/Kesojan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
