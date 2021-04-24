@@ -1,9 +1,26 @@
-### Hey, I'm Keso
-⚡  Always learning
+<h1 align='center'> Hey,  I'm Keso 😁  </h1>
+
+<p align='center'>
+Welcome to my playground! I'm a Backend Developer Intern at the Royal Bank of Canada. My experiences range from building software from Fortune 500 companies to high growth machine learning startups ⚡ 
+</p>
+<p align='center'>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=Kesojan??style=for-the-badge&logo=appveyor"></a>
+</p>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/Kesojan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:k2premak@uwaterloo.ca"><img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+
+<br>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="430" />
+<br>
+
+<img style="border-radius:10px" img align="left" src="https://github-readme-stats.vercel.app/api?username=Kesojan&show_icons=true&theme=algolia" />
+
+<img style="border-radius:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=Kesojan&show_icons=true&theme=algolia" />
 
 
-
-#### 
 
 <!--
 **Kesojan/Kesojan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
