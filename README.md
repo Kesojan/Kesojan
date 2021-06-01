@@ -1,7 +1,7 @@
 <h1 align='center'> Hey,  I'm Keso 😁  </h1>
 
 <p align='center'>
-Welcome to my playground! I'm a Backend Developer Intern at the Royal Bank of Canada. My experiences range from building software for Fortune 500 companies to high growth machine learning startups ⚡ 
+Welcome to my playground! I'm a Backend Developer Intern at the Royal Bank of Canada. My experiences range from building software for financial institutions to high growth machine learning startups ⚡ 
 </p>
 <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=Kesojan??style=for-the-badge&logo=appveyor"></a>
