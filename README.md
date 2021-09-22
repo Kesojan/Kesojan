@@ -1,7 +1,7 @@
-<h1 align='center'> Hey,  I'm Keso 😁  </h1>
+<h1 align='center'> Hey!  I'm Keso 😁  </h1>
 
 <p align='center'>
-Welcome! I'm a Software Engineering Intern at Coinbase on the ML & Platform team. My experiences range from building software for financial institutions to high growth machine learning startups ⚡ 
+I'm a Software Engineering Intern at Coinbase on the ML & Platform team. My experiences range from building software for financial institutions to high growth machine learning startups ⚡ 
 </p>
 <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=Kesojan??style=for-the-badge&logo=appveyor"></a>
