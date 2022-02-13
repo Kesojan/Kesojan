@@ -1,7 +1,7 @@
 <h3> Hey, I'm Keso  </h3>
 
 <p>
-Univeristy of Waterloo Engineering student. Previous SWE intern at Coinbase working on ML Platforms.
+University of Waterloo Engineering student. Previous SWE intern at Coinbase working on ML Platforms.
 <p>
 
 </ul>
