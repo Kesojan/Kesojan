@@ -1,7 +1,7 @@
 <h3> Hey, I'm Keso  </h3>
 
 
-UWaterloo Engineering student. Previous SWE intern at **Coinbase** working on ML Infra.
+UWaterloo Engineering student. Previous SWE intern at **Facebook** and **Coinbase**.
 <p>
   <a href="https://www.linkedin.com/in/Kesojan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:k2premak@uwaterloo.ca"><img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
